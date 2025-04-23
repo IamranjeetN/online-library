@@ -40,7 +40,7 @@ A responsive, Redux-powered React application for browsing, viewing, and adding 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/online-library.git
+   git clone https://github.com/IamranjeetN/online-library.git
    cd online-library
    ```
 
@@ -98,7 +98,7 @@ A responsive, Redux-powered React application for browsing, viewing, and adding 
    ```
 2. **Add to `package.json`**
    ```json
-   "homepage": "https://YOUR_USERNAME.github.io/online-library",
+   "homepage": "https://IamranjeetN.github.io/online-library",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build",
